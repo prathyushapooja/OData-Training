@@ -1,6 +1,6 @@
 # OData Training Contents
 
-|Day1 |Agenda  |
+|Day 1 |Agenda  |
 |--|--|
 |1	  	|Introduction to OData |
 |2		|Why we need OData  |
@@ -16,7 +16,7 @@
 |12		|Creating OData services with the SAP NetWeaver Gateway Service Builder |
 
 
-|Day2 |Agenda  |
+|Day 2 |Agenda  |
 |--|--|
 |1	  	|How to Register OData Service |
 |2		|Product, Supplier – GET ENTITYSET  |
@@ -35,7 +35,7 @@
 |15 	|Implementing Association|
 |16		| Association between product and supplier|
 
-|Day3 |Agenda  |
+|Day 3 |Agenda  |
 |--|--|
 |1		|Sales Order , Sales Order Item – Get Method’s |
 |2		|Association between Sales Order and Order Items
