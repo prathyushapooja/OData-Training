@@ -2,7 +2,7 @@
 
 |Day 1 |Agenda  |
 |--|--|
-|1	  	|Introduction to OData |
+|1	  |Introduction to OData |
 |2		|Why we need OData  |
 |3		|Benefits of OData |
 |4		|What is REST ? |
@@ -18,7 +18,7 @@
 
 |Day 2 |Agenda  |
 |--|--|
-|1	  	|How to Register OData Service |
+|1	  |How to Register OData Service                                          |
 |2		|Product, Supplier – GET ENTITYSET  |
 |3		|Perform GET ENTITY |
 |4		|Create Operation |
@@ -37,17 +37,17 @@
 
 |Day 3 |Agenda  |
 |--|--|
-|1		|Sales Order , Sales Order Item – Get Method’s |
-|2		|Association between Sales Order and Order Items
-|3		|Defining Deep Entity
-|4		|Implementation of Deep Entity
-|5		|Image Processing
-|6		|Understand Payload
-|7		|Testing in Postman Tool
-|8		|What is Function Import
-|9		|How to Use Function Import
-|10		|Implementation of Function Import
-|11		|OData Service Extension
+|1		|Sales Order , Sales Order Item – Get Method’s                          |
+|2		|Association between Sales Order and Order Items|
+|3		|Defining Deep Entity|
+|4		|Implementation of Deep Entity|
+|5		|Image Processing|
+|6		|Understand Payload|
+|7		|Testing in Postman Tool|
+|8		|What is Function Import|
+|9		|How to Use Function Import|
+|10		|Implementation of Function Import|
+|11		|OData Service Extension|
 
 ## Reference blogs 
 * https://blogs.sap.com/2020/11/24/introduction-to-odata-and-how-to-implement-them-in-abap/
