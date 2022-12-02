@@ -49,3 +49,5 @@
 |10		|Implementation of Function Import
 |11		|OData Service Extension
 
+## Reference blogs 
+https://blogs.sap.com/2020/11/24/introduction-to-odata-and-how-to-implement-them-in-abap/
