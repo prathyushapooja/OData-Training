@@ -54,3 +54,6 @@
 * https://blogs.sap.com/2021/05/19/a-step-by-step-process-to-post-odata-services-in-sap-sap-hana-system/
 * https://blogs.sap.com/2014/03/06/let-s-code-crudq-and-function-import-operations-in-odata-service/
 * https://www.sapyard.com/odata-and-sap-netweaver-gateway-part-i-introduction/
+
+##Youtube videos
+* https://www.youtube.com/playlist?list=PL6RpkC85SLQDYLiN1BobWXvvnhaGErkwj
