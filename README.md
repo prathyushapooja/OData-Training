@@ -56,4 +56,4 @@
 * https://www.sapyard.com/odata-and-sap-netweaver-gateway-part-i-introduction/
 
 ##Youtube videos
-* https://www.youtube.com/playlist?list=PL6RpkC85SLQDYLiN1BobWXvvnhaGErkwj
+* https://www.youtube.com/playlist?list=PL6RpkC85SLQDYLiN1BobWXvvnhaGErkwj 
