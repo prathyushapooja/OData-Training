@@ -59,5 +59,5 @@
 * https://blogs.sap.com/2022/02/23/easy-way-to-write-data-via-a-deep-entity-in-odata/
 * https://blogs.sap.com/2021/09/06/odata-complex-operations-with-multilevel-expanded-entityset-and-multiple-entries-using-batch/
 
-##Youtube videos
+## Youtube videos
 * https://www.youtube.com/playlist?list=PL6RpkC85SLQDYLiN1BobWXvvnhaGErkwj 
