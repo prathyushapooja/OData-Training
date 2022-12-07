@@ -57,6 +57,7 @@
 * https://blogs.sap.com/2015/01/03/implementation-of-query-option-in-odata-service/
 * http://www.techippo.com/2016/09/expand-query-OData-sap-getexpandedentity-implementation.html
 * https://blogs.sap.com/2022/02/23/easy-way-to-write-data-via-a-deep-entity-in-odata/
+* https://blogs.sap.com/2021/09/06/odata-complex-operations-with-multilevel-expanded-entityset-and-multiple-entries-using-batch/
 
 ##Youtube videos
 * https://www.youtube.com/playlist?list=PL6RpkC85SLQDYLiN1BobWXvvnhaGErkwj 
