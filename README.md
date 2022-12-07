@@ -55,6 +55,8 @@
 * https://blogs.sap.com/2014/03/06/let-s-code-crudq-and-function-import-operations-in-odata-service/
 * https://www.sapyard.com/odata-and-sap-netweaver-gateway-part-i-introduction/
 * https://blogs.sap.com/2015/01/03/implementation-of-query-option-in-odata-service/
+* http://www.techippo.com/2016/09/expand-query-OData-sap-getexpandedentity-implementation.html
+* https://blogs.sap.com/2022/02/23/easy-way-to-write-data-via-a-deep-entity-in-odata/
 
 ##Youtube videos
 * https://www.youtube.com/playlist?list=PL6RpkC85SLQDYLiN1BobWXvvnhaGErkwj 
